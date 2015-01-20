@@ -1,0 +1,22 @@
+
+NET "LEDSels[0]" LOC = K14;
+NET "LEDSels[1]" LOC = M13;
+NET "LEDSels[2]" LOC = J12;
+NET "LEDSels[3]" LOC = F12;
+NET "LED[0]" LOC = M12;
+NET "LED[1]" LOC = L13;
+NET "LED[2]" LOC = P12;
+NET "LED[3]" LOC = N11;
+NET "LED[4]" LOC = N14;
+NET "LED[5]" LOC = H12;
+NET "LED[6]" LOC = L14;
+NET "LED[7]" LOC = N13;
+NET "CS" LOC = A7;
+NET "RST" LOC = G12;
+#NET "tmr" LOC = A7;
+
+# PlanAhead Generated physical constraints 
+
+NET "CLK" LOC = B8;
+NET "plsOut" LOC = M11;
+NET "car"	LOC = M5;
